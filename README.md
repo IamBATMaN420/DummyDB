@@ -158,7 +158,7 @@ We built this during a hackathon pivot, so there's plenty of room for improvemen
 
 ---
 
-## 📝 License
+##  License
 
 MIT License - feel free to use this in your own projects, improve it, or just steal the good parts.
 
